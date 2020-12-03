@@ -2,6 +2,9 @@
 # -*- coding:utf-8 -*-
 
 
+"""栈表"""
+
+
 class Stack(object):
     def __init__(self):
         self.items = list()
